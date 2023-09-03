@@ -1,4 +1,33 @@
-sd
+fnbd
+bd
+dnd
+dnb
+dbf'
+Vjd
+fb
+d
+db
+dk
+dbnf
+fdnf
+djb
+dnd
+dnd
+dnf
+dn
+djf
+fdjd
+ jd
+ djd
+ dm
+ 'd
+ dd
+ k
+ dk
+ dk
+ kd
+ 
+ :sd
 sdno
 scjsadc
 dcn
