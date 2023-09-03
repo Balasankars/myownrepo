@@ -1,39 +1,5 @@
-fnbd
-bd
-dnd
-dnb
-dbf'
-Vjd
-fb
-d
-db
-dk
-dbnf
-fdnf
-djb
-dnd
-dnd
-dnf
-dn
-djf
-fdjd
- jd
- djd
- dm
- 'd
- dd
- k
- dk
- dk
- kd
- 
- :sd
-sdno
-scjsadc
-dcn
-dc
-'scoqw
-Dns
-nSDcij
-d
-sdcnsd
+nextTerm = firstTerm + secondTerm; (0 + 1)
+firstTerm = secondTerm; (1)
+secondTerm = nextTerm; (1)
+
+nextTerm = firstTerm + secondTerm; (1 + 0 )
